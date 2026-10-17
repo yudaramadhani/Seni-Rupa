@@ -1,0 +1,6 @@
+{
+  "name": "ART-EXPLORER: MPI Teknik Menggambar Seni Rupa SMP",
+  "description": "Multimedia Pembelajaran Interaktif (MPI) Seni Rupa SMP Kelas VII materi Teknik Menggambar berbasis Game-Based Learning dengan simulasi virtual lab, audio narasi, kuis interaktif, dan sertifikat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
